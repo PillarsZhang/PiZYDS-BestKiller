@@ -1,0 +1,13 @@
+Frm_Main = 0, 0, 0, 0, C, 26, 26, 1133, 654, C
+HotKey = 0, 0, 0, 0, C
+WindowShowHiding = 0, 0, 0, 0, C
+KeyCodeToString = 0, 0, 0, 0, C
+PublicAs = 0, 0, 0, 0, C
+BestKilling = 0, 0, 0, 0, C
+GetPath = 0, 0, 0, 0, C
+GetPsPids = 0, 0, 0, 0, C
+Others = 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 78, 78, 1185, 706, C
+Frm_Senior = 0, 0, 0, 0, C, 104, 104, 1211, 732, C
+GetHooking = 0, 0, 0, 0, C
+FirstPrepation = 0, 0, 0, 0, C
